@@ -1,5 +1,5 @@
 ### Hello World 👋 🌍
-### Prazer me chamo Josuel - Graduando em Sistemas de Informação 💻 
+### - Graduando em Sistemas de Informação 💻 
 ### Developer loading 🔋
 ### Cameta - PA 
 <hr>
