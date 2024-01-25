@@ -1,5 +1,5 @@
-### - Graduando em Sistemas de Informação 💻 
-### Developer loading 🔋
+### - Sistemas de Informação in progress 💻 
+### Learning Next.js  🔋
 ### Cameta - PA 
 
 ### Skills 
